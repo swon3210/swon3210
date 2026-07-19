@@ -2,7 +2,7 @@
 
 **AI를 팀과 제품의 현장에 배치하고, 정착까지 책임지는 프론트엔드 엔지니어**
 
-*Frontend engineer doing forward-deployed work — bringing AI to where the problems live, and staying until it sticks.*
+*Frontend engineer bringing AI to where the problems live — and staying until it sticks.*
 
 좋은 코드보다 좋은 구조를 고민합니다. 틀린 코드를 작성하기 어렵게 만드는 설계, 사람과 AI가 같은 기준을 공유하는 환경을 만드는 데 관심이 많습니다.
 
